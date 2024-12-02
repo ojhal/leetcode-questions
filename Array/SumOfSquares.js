@@ -1,7 +1,4 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
+
 var sumOfSquares = function(nums) {
     let sum = 0;
 
